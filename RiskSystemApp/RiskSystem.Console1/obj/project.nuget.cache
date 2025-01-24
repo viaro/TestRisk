@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IdgNsSl5e+A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Console1\\RiskSystem.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\danil\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

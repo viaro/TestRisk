@@ -1,0 +1,13 @@
+{
+  "stryker-config": {
+    "solution": "./RiskSystemApp.sln",
+    "project": "./RiskSystem.Tests/RiskSystem.Domain.csproj",
+    "test-projects": ["./RiskSystem.Tests/RiskSystem.Tests.csproj"],
+    "reporters": ["progress", "html"],
+    "thresholds": {
+      "high": 80,
+      "low": 60,
+      "break": 50
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "stryker-config": {
+	"project-file": "./RiskSystem.Tests/RiskSystem.Tests.csproj",
+    "reporters": ["progress", "html"],
+    "thresholds": {
+      "high": 80,
+      "low": 60,
+      "break": 50
+    }
+  }
+}

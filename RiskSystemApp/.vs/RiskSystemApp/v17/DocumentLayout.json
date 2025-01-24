@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|c:\\users\\danil\\source\\repos\\testrisk\\risksystemapp\\risksystem.tests\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|solutionrelative:risksystem.tests\\categorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|c:\\users\\danil\\source\\repos\\testrisk\\risksystemapp\\risksystem.tests\\tradetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|solutionrelative:risksystem.tests\\tradetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|c:\\users\\danil\\source\\repos\\testrisk\\risksystemapp\\risksystem.tests\\tradefactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|solutionrelative:risksystem.tests\\tradefactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|c:\\users\\danil\\source\\repos\\testrisk\\risksystemapp\\risksystem.tests\\risksystemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|solutionrelative:risksystem.tests\\risksystemservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|c:\\users\\danil\\source\\repos\\testrisk\\risksystemapp\\risksystem.tests\\portfoliotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|solutionrelative:risksystem.tests\\portfoliotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|c:\\users\\danil\\source\\repos\\testrisk\\risksystemapp\\risksystem.tests\\portfoliofactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CDFE32-4397-47F4-8788-A7D1C7020CA5}|RiskSystem.Tests\\RiskSystem.Tests.csproj|solutionrelative:risksystem.tests\\portfoliofactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TradeTests.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\TradeTests.cs",
+              "RelativeDocumentMoniker": "RiskSystem.Tests\\TradeTests.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\TradeTests.cs",
+              "RelativeToolTip": "RiskSystem.Tests\\TradeTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:40:13.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TradeFactoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\TradeFactoryTests.cs",
+              "RelativeDocumentMoniker": "RiskSystem.Tests\\TradeFactoryTests.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\TradeFactoryTests.cs",
+              "RelativeToolTip": "RiskSystem.Tests\\TradeFactoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:40:09.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RiskSystemServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\RiskSystemServiceTests.cs",
+              "RelativeDocumentMoniker": "RiskSystem.Tests\\RiskSystemServiceTests.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\RiskSystemServiceTests.cs",
+              "RelativeToolTip": "RiskSystem.Tests\\RiskSystemServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:15:41.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PortfolioTests.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\PortfolioTests.cs",
+              "RelativeDocumentMoniker": "RiskSystem.Tests\\PortfolioTests.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\PortfolioTests.cs",
+              "RelativeToolTip": "RiskSystem.Tests\\PortfolioTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:39:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\CategoryTests.cs",
+              "RelativeDocumentMoniker": "RiskSystem.Tests\\CategoryTests.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\CategoryTests.cs",
+              "RelativeToolTip": "RiskSystem.Tests\\CategoryTests.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAQwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T16:39:53.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PortfolioFactoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\PortfolioFactoryTests.cs",
+              "RelativeDocumentMoniker": "RiskSystem.Tests\\PortfolioFactoryTests.cs",
+              "ToolTip": "C:\\Users\\danil\\source\\repos\\TestRisk\\RiskSystemApp\\RiskSystem.Tests\\PortfolioFactoryTests.cs",
+              "RelativeToolTip": "RiskSystem.Tests\\PortfolioFactoryTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T15:12:33.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

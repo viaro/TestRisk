@@ -1,0 +1,4 @@
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem\obj\Debug\netcoreapp3.1\RiskSystem.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem\obj\Debug\netcoreapp3.1\RiskSystem.Console.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem\obj\Debug\netcoreapp3.1\RiskSystem.Console.AssemblyInfo.cs
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem\obj\Debug\netcoreapp3.1\RiskSystem.Console.csproj.CoreCompileInputs.cache

@@ -1,0 +1,17 @@
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\bin\Debug\net8.0\RiskSystem.Infrastructure.deps.json
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSystem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSystem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSystem.Infrastructure.AssemblyInfo.cs
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSyst.6B02DCA0.Up2Date
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\bin\Debug\net8.0\RiskSystem.Infrastructure.dll
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\bin\Debug\net8.0\RiskSystem.Infrastructure.pdb
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\bin\Debug\net8.0\RiskSystem.Application.dll
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\bin\Debug\net8.0\RiskSystem.Domain.dll
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\bin\Debug\net8.0\RiskSystem.Application.pdb
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\bin\Debug\net8.0\RiskSystem.Domain.pdb
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSystem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSystem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSystem.Infrastructure.dll
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\refint\RiskSystem.Infrastructure.dll
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\RiskSystem.Infrastructure.pdb
+C:\Users\danil\source\repos\TestRisk\RiskSystemApp\RiskSystem.Infrastructure\obj\Debug\net8.0\ref\RiskSystem.Infrastructure.dll
